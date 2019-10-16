@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PEproject>
   <Header>
-    <Name>mysimpleblinky_working</Name>
+    <Name>MCUX_PE_KL25Z_Blinky</Name>
     <SavedBy>Michael</SavedBy>
     <ModificationStamp>8</ModificationStamp>
-    <Date>2019-10-05</Date>
+    <Date>2019-10-16</Date>
     <IDE>Eclipse IDE</IDE>
     <PEversion>1.12.2.RT7_b1550-0615</PEversion>
   </Header>
