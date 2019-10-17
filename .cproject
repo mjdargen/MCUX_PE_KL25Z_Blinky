@@ -44,19 +44,19 @@
 							<builder buildPath="${workspace_loc:/mysimpleblinky}/Debug" id="ilg.gnuarmeclipse.managedbuild.cross.builder.52327830" keepEnvironmentInBuildfile="false" name="Gnu Make Builder" superClass="ilg.gnuarmeclipse.managedbuild.cross.builder"/>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.2070143509" name="GNU ARM Cross Assembler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler">
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.usepreprocessor.412498171" name="Use preprocessor" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.usepreprocessor" useByScannerDiscovery="false" value="true" valueType="boolean"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.nostdinc.967727720" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.nostdinc"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.preprocessonly.215618936" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.preprocessonly"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.defs.1209081366" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.defs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.undefs.1153838315" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.undefs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.paths.1412307470" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.paths"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.systempaths.1552105150" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.systempaths"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.files.1490572430" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.files"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.otherwarnings.1832125419" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.otherwarnings"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.flags.1676353922" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.flags"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.asmlisting.590042397" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.asmlisting"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.savetemps.1029373409" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.savetemps"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.verbose.245602606" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.verbose"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.other.200409176" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.other"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.nostdinc.967727720" name="Do not search system directories (-nostdinc)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.nostdinc"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.preprocessonly.215618936" name="Preprocess only (-E)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.preprocessonly"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.defs.1209081366" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.defs"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.undefs.1153838315" name="Undefined symbols (-U)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.undefs"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.paths.1412307470" name="Include paths (-I)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.paths"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.systempaths.1552105150" name="Include system paths (-isystem)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.systempaths"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.files.1490572430" name="Include files (-include)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.files"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.otherwarnings.1832125419" name="Other warning flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.otherwarnings"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.flags.1676353922" name="Assembler flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.flags"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.asmlisting.590042397" name="Generate assembler listing (-Wa,-adhlns=&quot;$@.lst&quot;)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.asmlisting"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.savetemps.1029373409" name="Save temporary files (--save-temps Use with caution!)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.savetemps"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.verbose.245602606" name="Verbose (-v)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.verbose"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.other.200409176" name="Other assembler flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.other"/>
 								<inputType id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.input.351793736" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.input"/>
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.c.compiler.1704432595" name="GNU ARM Cross C Compiler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.c.compiler">
@@ -67,21 +67,21 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Generated_Code&quot;"/>
 								</option>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.nostdinc.1997722707" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.nostdinc"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.preprocessonly.1092226107" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.preprocessonly"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1886346684" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.undef.1977208850" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.undef"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.systempaths.924623018" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.systempaths"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.files.1668829565" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.files"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otheroptimizations.1276449091" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otheroptimizations"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.missingprototypes.1145083164" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.missingprototypes"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.strictprototypes.2119342864" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.strictprototypes"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.badfunctioncast.2098510480" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.badfunctioncast"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otherwarnings.72556626" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otherwarnings"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.asmlisting.593746757" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.asmlisting"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.savetemps.613704391" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.savetemps"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.verbose.900249389" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.verbose"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.other.1680274956" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.other"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.nostdinc.1997722707" name="Do not search system directories (-nostdinc)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.nostdinc" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.preprocessonly.1092226107" name="Preprocess only (-E)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.preprocessonly" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1886346684" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.undef.1977208850" name="Undefined symbols (-U)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.undef" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.systempaths.924623018" name="Include system paths (-isystem)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.systempaths" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.files.1668829565" name="Include files (-include)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.files" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otheroptimizations.1276449091" name="Other optimization flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otheroptimizations" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.missingprototypes.1145083164" name="Warn if a global function has no prototype (-Wmissing-prototypes)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.missingprototypes" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.strictprototypes.2119342864" name="Warn if a function has no arg type (-Wstrict-prototypes)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.strictprototypes" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.badfunctioncast.2098510480" name="Warn if wrong cast  (-Wbad-function-cast)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.warning.badfunctioncast" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otherwarnings.72556626" name="Other warning flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.otherwarnings" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.asmlisting.593746757" name="Generate assembler listing (-Wa,-adhlns=&quot;$@.lst&quot;)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.asmlisting" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.savetemps.613704391" name="Save temporary files (--save-temps Use with caution!)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.savetemps" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.verbose.900249389" name="Verbose (-v)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.verbose" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.other.1680274956" name="Other compiler flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.other" useByScannerDiscovery="true"/>
 								<inputType id="ilg.gnuarmeclipse.managedbuild.cross.tool.c.compiler.input.753134097" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.c.compiler.input"/>
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.cpp.compiler.1449595081" name="GNU ARM Cross C++ Compiler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.cpp.compiler">
@@ -91,32 +91,32 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Generated_Code&quot;"/>
 								</option>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdinc.506507868" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdinc"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdincpp.1643403086" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdincpp"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.preprocessonly.1528285615" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.preprocessonly"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs.776701419" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.undef.660325402" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.undef"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.systempaths.213497069" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.systempaths"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.files.1255718369" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.files"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.std.1296006186" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.std"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.abiversion.481663937" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.abiversion"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.noexceptions.1254417391" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.noexceptions"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nortti.494795108" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nortti"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nousecxaatexit.840542233" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nousecxaatexit"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nothreadsafestatics.263847674" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nothreadsafestatics"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otheroptimizations.1707689804" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otheroptimizations"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warnabi.1879586190" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warnabi"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.ctordtorprivacy.1957676853" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.ctordtorprivacy"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.noexcept.49968755" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.noexcept"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.nonvirtualdtor.1814170486" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.nonvirtualdtor"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.strictnullsentinel.1699224246" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.strictnullsentinel"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.signpromo.542497548" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.signpromo"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warneffc.121710288" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warneffc"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings.441098224" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting.1101515694" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.savetemps.1203111552" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.savetemps"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.verbose.877397046" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.verbose"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.other.368689771" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.other"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdinc.506507868" name="Do not search system directories (-nostdinc)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdinc" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdincpp.1643403086" name="Do not search system C++ directories (-nostdinc++)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nostdincpp" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.preprocessonly.1528285615" name="Preprocess only (-E)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.preprocessonly" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs.776701419" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.undef.660325402" name="Undefined symbols (-U)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.undef" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.systempaths.213497069" name="Include system paths (-isystem)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.systempaths" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.files.1255718369" name="Include files (-include)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.include.files" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.std.1296006186" name="Language standard" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.std" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.abiversion.481663937" name="ABI version" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.abiversion" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.noexceptions.1254417391" name="Do not use exceptions (-fno-exceptions)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.noexceptions" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nortti.494795108" name="Do not use RTTI (-fno-rtti)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nortti" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nousecxaatexit.840542233" name="Do not use _cxa_atexit() (-fno-use-cxa-atexit)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nousecxaatexit" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nothreadsafestatics.263847674" name="Do not use thread-safe statics (-fno-threadsafe-statics)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nothreadsafestatics" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otheroptimizations.1707689804" name="Other optimization flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otheroptimizations" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warnabi.1879586190" name="Warn on ABI violations (-Wabi)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warnabi" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.ctordtorprivacy.1957676853" name="Warn on class privacy (-Wctor-dtor-privacy)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.ctordtorprivacy" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.noexcept.49968755" name="Warn on no-except expressions (-Wnoexcept)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.noexcept" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.nonvirtualdtor.1814170486" name="Warn on virtual destructors (-Wnon-virtual-dtor)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.nonvirtualdtor" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.strictnullsentinel.1699224246" name="Warn on uncast NULL (-Wstrict-null-sentinel)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.strictnullsentinel" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.signpromo.542497548" name="Warn on sign promotion (-Wsign-promo)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warning.signpromo" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warneffc.121710288" name="Warn about Effective C++ violations (-Weffc++)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.warneffc" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings.441098224" name="Other warning flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings" useByScannerDiscovery="true"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting.1101515694" name="Generate assembler listing (-Wa,-adhlns=&quot;$@.lst&quot;)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.savetemps.1203111552" name="Save temporary files (--save-temps Use with caution!)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.savetemps" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.verbose.877397046" name="Verbose (-v)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.verbose" useByScannerDiscovery="false"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.other.368689771" name="Other compiler flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.other" useByScannerDiscovery="true"/>
 								<inputType id="ilg.gnuarmeclipse.managedbuild.cross.tool.cpp.compiler.input.251029610" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.cpp.compiler.input"/>
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.c.linker.337592485" name="GNU ARM Cross C Linker" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.c.linker">
@@ -131,26 +131,26 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Project_Settings/Linker_Files/ProcessorExpert.ld&quot;"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.other.658995542" name="Other linker flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.other" value="-specs=nano.specs -specs=nosys.specs" valueType="string"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostart.452778608" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostart"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nodeflibs.455189194" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nodeflibs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostdlibs.359190162" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostdlibs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printgcsections.464182502" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printgcsections"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.strip.861779901" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.strip"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.libs.1559509741" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.libs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.flags.1071741387" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.flags"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.otherobjs.623882043" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.otherobjs"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.mapfilename.212973602" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.mapfilename"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.cref.2012024629" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.cref"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printmap.1689239623" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printmap"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnano.1927955395" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnano"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.useprintffloat.637761469" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.useprintffloat"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usescanffloat.1833577510" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usescanffloat"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnosys.489511933" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnosys"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.verbose.108009007" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.verbose"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.shared.244915039" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.shared"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.soname.913174350" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.soname"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.implname.133755058" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.implname"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.defname.823319585" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.defname"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostart.452778608" name="Do not use standard start files (-nostartfiles)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostart"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nodeflibs.455189194" name="Do not use default libraries (-nodefaultlibs)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nodeflibs"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostdlibs.359190162" name="No startup or default libs (-nostdlib)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.nostdlibs"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printgcsections.464182502" name="Print removed sections (-Xlinker --print-gc-sections)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printgcsections"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.strip.861779901" name="Omit all symbol information (-s)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.strip"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.libs.1559509741" name="Libraries (-l)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.libs"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.flags.1071741387" name="Linker flags (-Xlinker [option])" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.flags"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.otherobjs.623882043" name="Other objects" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.otherobjs"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.mapfilename.212973602" name="Generate map" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.mapfilename"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.cref.2012024629" name="Cross reference (-Xlinker --cref)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.cref"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printmap.1689239623" name="Print link map (-Xlinker --print-map)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.printmap"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnano.1927955395" name="Use newlib-nano (--specs=nano.specs)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnano"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.useprintffloat.637761469" name="Use float with nano printf (-u _printf_float)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.useprintffloat"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usescanffloat.1833577510" name="Use float with nano scanf (-u _scanf_float)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usescanffloat"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnosys.489511933" name="Do not use syscalls (--specs=nosys.specs)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.usenewlibnosys"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.verbose.108009007" name="Verbose (-v)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.verbose"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.shared.244915039" name="Shared (-shared)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.shared"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.soname.913174350" name="Shared object name (-Wl,-soname=)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.soname"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.implname.133755058" name="Import library name (-Wl,--out-implib=)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.implname"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.defname.823319585" name="DEF file name (-Wl,--output-def=)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.linker.defname"/>
 								<inputType id="ilg.gnuarmeclipse.managedbuild.cross.tool.cpp.linker.input.511522029" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
 									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
@@ -158,11 +158,11 @@
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.archiver.2117722274" name="GNU ARM Cross Archiver" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.archiver"/>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.createflash.1098475604" name="GNU ARM Cross Create Flash Image" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.createflash">
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.choice.334404787" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.choice"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.textsection.542894678" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.textsection"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.datasection.508440888" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.datasection"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.othersection.1720926893" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.othersection"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.other.101034114" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.other"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.choice.334404787" name="Output file format (-O)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.choice"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.textsection.542894678" name="Section: -j .text" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.textsection"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.datasection.508440888" name="Section: -j .data" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.datasection"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.othersection.1720926893" name="Other sections (-j)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.othersection"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.other.101034114" name="Other flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.other"/>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.InFileName.218399675" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.createflash.InFileName"/>
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.createlisting.1141386241" name="GNU ARM Cross Create Listing" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.createlisting">
@@ -174,9 +174,9 @@
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.printsize.456619475" name="GNU ARM Cross Print Size" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.printsize">
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.format.379927483" name="Size format" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.format" useByScannerDiscovery="false"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.hex.2006796429" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.hex"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.totals.1105698169" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.totals"/>
-								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.other.1948866776" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.other"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.hex.2006796429" name="Hex" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.hex"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.totals.1105698169" name="Show totals" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.totals"/>
+								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.other.1948866776" name="Other flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.other"/>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.InFileName.1545605440" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.printsize.InFileName"/>
 							</tool>
 						</toolChain>
@@ -210,5 +210,32 @@
 		<configuration configurationName="Debug">
 			<resource resourceType="PROJECT" workspacePath="/mysimpleblinky"/>
 		</configuration>
+	</storageModule>
+	<storageModule moduleId="com.nxp.mcuxpresso.core.datamodels">
+		<sdkName>SDK_2.x_FRDM-KL25Z</sdkName>
+		<sdkVersion>2.2.0</sdkVersion>
+	</storageModule>
+	<storageModule moduleId="com.crt.config">
+		<projectStorage>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&#13;
+&lt;TargetConfig&gt;&#13;
+&lt;Properties property_3="NXP" property_4="MKL25Z128xxx4" property_count="5" version="100300"/&gt;&#13;
+&lt;infoList vendor="NXP"&gt;&#13;
+&lt;info chip="MKL25Z128xxx4" name="MKL25Z128xxx4"&gt;&#13;
+&lt;chip&gt;&#13;
+&lt;name&gt;MKL25Z128xxx4&lt;/name&gt;&#13;
+&lt;family&gt;KL2x&lt;/family&gt;&#13;
+&lt;vendor&gt;NXP&lt;/vendor&gt;&#13;
+&lt;memory can_program="true" id="Flash" is_ro="true" size="0" type="Flash"/&gt;&#13;
+&lt;memory id="RAM" size="0" type="RAM"/&gt;&#13;
+&lt;memoryInstance derived_from="Flash" driver="FTFA_1K.cfx" id="PROGRAM_FLASH" location="0x00000000" size="0x00020000"/&gt;&#13;
+&lt;memoryInstance derived_from="RAM" id="SRAM" location="0x1ffff000" size="0x00004000"/&gt;&#13;
+&lt;/chip&gt;&#13;
+&lt;processor&gt;&#13;
+&lt;name gcc_name="cortex-m0plus"&gt;Cortex-M0+&lt;/name&gt;&#13;
+&lt;family&gt;Cortex-M&lt;/family&gt;&#13;
+&lt;/processor&gt;&#13;
+&lt;/info&gt;&#13;
+&lt;/infoList&gt;&#13;
+&lt;/TargetConfig&gt;</projectStorage>
 	</storageModule>
 </cproject>
