@@ -48,7 +48,7 @@
 #include "IO_Map.h"
 /* User includes (#include below this line is not maintained by Processor Expert) */
 
-void control_LEDs (int R, int G, int B) {
+void control_LEDs (bool R, bool G, bool B) {
 	if (R) LEDR_On();
 	else LEDR_Off();
 	if (G) LEDG_On();
