@@ -2,7 +2,7 @@
 <GenerationInfo_G_C>
   <Options>
     <ProjectName>MCUX_PE_KL25Z_Blinky</ProjectName>
-    <ProjectDirectory>C:\Users\Michael\Documents\GitHub\MCUX_PE_KL25Z_Blinky\</ProjectDirectory>
+    <ProjectDirectory>C:\Users\Michael\Documents\GitHub\MCUX_workspace\MCUX_PE_KL25Z_Blinky\</ProjectDirectory>
     <ProjectMainModuleName>main</ProjectMainModuleName>
     <DestEventsDirectory>Sources\</DestEventsDirectory>
     <DestDriversSubDirectory>..\Generated_Code\</DestDriversSubDirectory>
